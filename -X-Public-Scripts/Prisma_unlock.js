@@ -8,7 +8,7 @@
 *******************************
 [rewrite_local]
 # > Prisma解锁订阅
-^https:\/\/api\.neuralprisma\.com\/receipt\/ios\/status\/prisma\/.+ url script-response-body https://github.com/Geekey101/-X-Public/tree/main/-X-Public-Scripts/Prisma_unlock.js
+^https:\/\/api\.neuralprisma\.com\/receipt\/ios\/status\/prisma\/.+ url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/Prisma_unlock.js
 [mitm] 
 hostname = api.neuralprisma.com
 *
