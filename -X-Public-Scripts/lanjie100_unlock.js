@@ -1,5 +1,12 @@
 /*lanjie100解锁*/
-
+/*
+ *
+ *
+脚本功能：解锁订阅
+使用声明：⚠️此脚本仅供学习与交流，
+        请勿转载与贩卖！⚠️⚠️⚠️
+*******************************
+*/
 [rewrite_local]
 ^https:\/\/tagit\.lanjie100\.com\/cypt\/block100\/get_vip_info url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/lanjie100_unlock.js
 
