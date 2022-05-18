@@ -1,3 +1,5 @@
+/*lanjie100解锁*/
+
 [rewrite_local]
 ^https:\/\/tagit\.lanjie100\.com\/cypt\/block100\/get_vip_info url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/lanjie100_unlock.js
 
