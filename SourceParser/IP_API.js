@@ -1,4 +1,4 @@
-/*☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧 Thanks for the author!*/
+/*☑️ IP_API ©𝐒𝐡𝐚𝐰𝐧 Thanks for the author!*/
 
 
 if ($response.statusCode != 200) {
