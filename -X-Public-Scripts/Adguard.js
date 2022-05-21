@@ -12,5 +12,5 @@ hostname = *.adguard.com
 
 */
 
-body = $response.body.replace(/status":"PREE"/g, 'status":"PREMIUM"').replace(/licenseDevicesCount":0/g, 'licenseDevicesCount":3').replace(/licenseMaxDevicesCount":0/g, 'licenseMaxDevicesCount":3').replace(/lifetime":false/g, 'lifetime":true');
+body = $response.body.replace(/status":"FREE"/g, 'status":"PREMIUM"').replace(/licenseDevicesCount":0/g, 'licenseDevicesCount":3').replace(/licenseMaxDevicesCount":0/g, 'licenseMaxDevicesCount":3').replace(/lifetime":false/g, 'lifetime":true');
  $done({body});
