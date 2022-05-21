@@ -6,7 +6,7 @@
 [rewrite_local]
 
 # ～ VPN-unlimited解鎖訂閱
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/supervpnpro.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/superVPN.js
 
 [mitm] 
 
