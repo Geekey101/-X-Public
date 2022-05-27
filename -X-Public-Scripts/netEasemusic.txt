@@ -13,11 +13,7 @@ shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.
 shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 5
 http=ivapp.cn/wyy.txt, fast-open=false, udp-relay=false, tag= Music 6
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag= Music 7
-http=LOLICO.ME:443, fast-open=false, udp-relay=false, tag= Music 8
-http=SALVAN.ICU:19980, fast-open=false, udp-relay=false, tag= Music 9
-http=1.116.214.16:19980, fast-open=false, udp-relay=false, tag= Music 10
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag= Music 11
-http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag= Music 12
+
 http=MUSIC.LOLICO.ME:39000, fast-open=false, udp-relay=false, tag= Music 13
 http=MUSIC.GRIOUGES.CN:39000, fast-open=false, udp-relay=false, tag= Music 14
 shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag= Music 15
