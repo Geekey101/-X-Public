@@ -1,0 +1,4 @@
+[filter_remote]
+## > HDOBOX去广告
+host-suffix, applovin.com, reject
+host-suffix, applvn.com, reject
