@@ -1,22 +1,5 @@
 #线路来源于网络
-#更新时间：2022.5.23
-#资源频道：https://t.me/yqc_123
-#问题反馈：https://t.me/yqc_777
-
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=Music 1
-
-http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Music 2
-
-shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 3
-
-shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 4
-shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 5
-http=ivapp.cn/wyy.txt, fast-open=false, udp-relay=false, tag= Music 6
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag= Music 7
-
-http=MUSIC.LOLICO.ME:39000, fast-open=false, udp-relay=false, tag= Music 13
-http=MUSIC.GRIOUGES.CN:39000, fast-open=false, udp-relay=false, tag= Music 14
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag= Music 15
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag= Music 16
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 17
-http=43.142.34.8:8081, fast-open=false, udp-relay=false, tag=Music 0
+# > 2022.06.22
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=NeteaseMusic Unlock 1
+http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=NeteaseMusic Unlock 5
+http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=NeteaseMusic Unlock 10
