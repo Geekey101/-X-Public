@@ -2,3 +2,18 @@
 ## > HDOBOX去广告
 host-suffix, applovin.com, reject
 host-suffix, applvn.com, reject
+#多多视频去广告
+host ,tx-cdn-local.rr.tv,reject
+host,adashxgc.ut.taobao.com,reject
+host, api-access.pangolin-sdk-toutiao.com, reject
+host,sf3-fe-tos.pglstatp-toutiao.com,reject
+host,mi.gdt.qq.com,reject
+host,adashbc.ut.taobao.com,reject
+host,v6-default.ixigua.com,reject
+host,adim.pinduoduo.com,reject
+host,lf3-analytics.bytescm.com,reject
+host,ug.snssdk.com,reject
+host,ether-pack.pangolin-sdk-toutiao.com,reject
+host,log-api.pangolin-sdk-toutiao-b.com,reject
+host,p9-be-pack-sign.pglstatp-toutiao.com,reject
+host-suffix,mi.gdt.qq.com,reject
