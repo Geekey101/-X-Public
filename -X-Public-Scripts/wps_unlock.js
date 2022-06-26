@@ -24,6 +24,7 @@ hostname = account.wps.cn
 **************************/
 
 var body = JSON.parse($response.body);
+
 if($request.url. indexOf('/api/users') != -1){
 var obj = {
   exp: 0,
@@ -55,21 +56,31 @@ var obj = {
   expire_time: 1846256142
 };
 }
-else if ($request.url. indexOf('/api/v3/mine/vips') != -1){
+
+
+
+if ($request.url. indexOf('/api/v3/mine/vips') != -1){
 var obj = {
   "result": "ok",
-  "server_time": 1656148313,
+  "server_time": 1846256142,
   "vips": [{
+    "name": "超级会员",
+    "has_ad": 0,
+    "memberid": 40,
+    "expire_time": 1846256142,
+    "enabled": null
+  },
+    {
     "name": "稻壳会员",
     "has_ad": 0,
     "memberid": 12,
-    "expire_time": 1644835112,
+    "expire_time": 1846256142,
     "enabled": null
   }, {
     "name": "WPS会员",
     "has_ad": 0,
     "memberid": 20,
-    "expire_time": 1679664272,
+    "expire_time": 1846256142,
     "enabled": null
   }]
 }
