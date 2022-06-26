@@ -7,7 +7,7 @@ WPS Office 解锁部分功能
 QuantumultX:
 
 [rewrite_local]
-^https?:\/\/account\.wps\.cn\/api\/users url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/wps_unlock.js
+^https?:\/\/account\.wps\.cn\/api(\/users|\/v3\/mine\/vips url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/wps_unlock.js
 
 [mitm]
 hostname = account.wps.cn
