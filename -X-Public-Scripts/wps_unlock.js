@@ -55,7 +55,7 @@ var obj = {
   expire_time: 1846256142
 };
 }
-else if ($request.url. indexOf('/api/users') != -1){
+else if ($request.url. indexOf('/api/v3/mine/vips') != -1){
 var obj = {
   "result": "ok",
   "server_time": 1656148313,
