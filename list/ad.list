@@ -17,3 +17,35 @@ host,ether-pack.pangolin-sdk-toutiao.com,reject
 host,log-api.pangolin-sdk-toutiao-b.com,reject
 host,p9-be-pack-sign.pglstatp-toutiao.com,reject
 host-suffix,mi.gdt.qq.com,reject
+
+# spotify分流
+HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,proxy
+HOST-SUFFIX,byspotify.com,proxy
+HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,proxy
+HOST-SUFFIX,pscdn.co,proxy
+HOST-SUFFIX,scdn.co,proxy
+HOST-SUFFIX,spoti.fi,proxy
+HOST-SUFFIX,spotify-com.akamaized.net,proxy
+HOST-SUFFIX,spotify-everywhere.com,proxy
+HOST-SUFFIX,spotify.com,proxy
+HOST-SUFFIX,spotify.design,proxy
+HOST-SUFFIX,spotifycdn.com,proxy
+HOST-SUFFIX,spotifycdn.net,proxy
+HOST-SUFFIX,spotifycharts.com,proxy
+HOST-SUFFIX,spotifycodes.com,proxy
+HOST-SUFFIX,spotifyforbrands.com,proxy
+HOST-SUFFIX,spotifyjobs.com,proxy
+HOST-KEYWORD,-spotify-com,proxy
+HOST-KEYWORD,spotify.com,proxy
+USER-AGENT,*Spotify*,proxy
+USER-AGENT,Spotify*,proxy
+IP-CIDR,35.186.224.47/32,proxy
+
+
+# 网易云
+host-suffix,open.e.189.cn,reject
+host-suffix,iadmusicmat.music.126.net,reject
+
+
+
+
