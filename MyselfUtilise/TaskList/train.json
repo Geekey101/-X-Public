@@ -1,0 +1,7 @@
+{
+    "name":"请更换订阅地址",
+    "Image" : "https://qxzy.top/images/logo.png",
+    "task":[
+        "* * * * 1/1 ? https://raw.githubusercontent.com/zwf234/rules/master/js/jd_Delck.js, tag=清除京东ck, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true"
+ ]
+}
