@@ -5,6 +5,6 @@
  "task": [
         {
         "config":"5 0 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/xiaomi.js, tag=小米运动, img-url=https://qxnav.com/rules/QuantumultX/img/xiaomi.png, enabled=true",
-
+        }
  ]
 }
