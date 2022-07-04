@@ -9,10 +9,10 @@ hostname = account.huami.com
 
 [task_local]
 # 小米运动
-15 17 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/xiaomi.js, tag=小米运动, img-url=https://qxnav.com/rules/QuantumultX/img/xiaomi.png
+15 17 * * * https://raw.githubusercontent.com/Geekey101/-X-Public/main/MyselfUtilise/RewriteRule/XiaoMi_Sept.js, tag=小米运动, img-url=https://qxnav.com/rules/QuantumultX/img/xiaomi.png
 [rewrite_local]
 # 小米运动获取Token
-^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://raw.githubusercontent.com/zwf234/rules/master/js/xiaomi.js
+^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/MyselfUtilise/RewriteRule/XiaoMi_Sept.js
 */
 
 const $ = new Env('小米运动');
