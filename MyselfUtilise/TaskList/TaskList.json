@@ -1,6 +1,7 @@
 {
     "name":"任务集",
     "task":[
-       "5 0 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/xiaomi.js, tag=小米运动, img-url=https://qxnav.com/rules/QuantumultX/img/xiaomi.png, enabled=true"
+       "5 0 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/xiaomi.js, tag=小米运动, img-url=https://qxnav.com/rules/QuantumultX/img/xiaomi.png, enabled=true",
+       "7 0 * * * https://raw.githubusercontent.com/uiolee/NanFuDao/main/yfd_checkin.js, tag=奕辅导, enabled=true"
  ]
 }
