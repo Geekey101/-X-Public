@@ -9,12 +9,11 @@
 [rewrite_local]
 
 ^https?:\/\/api\.rr\.tv\/.*?Version url reject
-https://api.rr.tv/v3plus/index/channel\?pageNum=1&position=CHANNEL_INDEX url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/myuse/ddsp.js
-^https:\/\/api\.rr\.tv\/user\/privilege\/list url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/myuse/ddsp.js
-^https:\/\/api\.rr\.tv\/ad\/getAll url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/myuse/ddsp.js
-^https:\/\/api\.rr\.tv\/drama\/app\/get_combined_drama_detail url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/myuse/ddsp.js
-https://api.rr.tv/watch/v4 url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/myuse/ddsp.js
-https://api.rr.tv/user/profile url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/myuse/ddsp.js
+https://api.rr.tv/v3plus/index/channel\?pageNum=1&position=CHANNEL_INDEX url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/ddsp.js
+^https:\/\/api\.rr\.tv\/ad\/getAll url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/ddsp.js
+^https:\/\/api\.rr\.tv\/drama\/app\/get_combined_drama_detail url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/ddsp.js
+https://api.rr.tv/watch/v4 url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/ddsp.js
+https://api.rr.tv/user/profile url script-response-body https://raw.githubusercontent.com/Geekey101/-X-Public/main/-X-Public-Scripts/ddsp.js
 
 
 [mitm]
