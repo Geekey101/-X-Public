@@ -2,6 +2,7 @@
     "name":"任务集",
     "task":[
        "5 0 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/xiaomi.js, tag=小米运动, img-url=https://qxnav.com/rules/QuantumultX/img/xiaomi.png, enabled=true",
-       "7 0 * * * https://raw.githubusercontent.com/uiolee/NanFuDao/main/yfd_checkin.js, tag=奕辅导, enabled=true"
+       "7 0 * * * https://raw.githubusercontent.com/uiolee/NanFuDao/main/yfd_checkin.js, tag=奕辅导, enabled=true",
+       "event-interaction https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js, tag=网易音乐查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png, enabled=true"
  ]
 }
