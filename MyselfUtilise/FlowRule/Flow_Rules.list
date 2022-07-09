@@ -3483,8 +3483,8 @@ IP-CIDR,96.4.63.99/32,海外服务
 
 #【海外服务—自选节点】
 
+###【viki】
 host,api.viki.io,自选节点
-
 host,collector.viki.io,自选节点
 host,94.140.14.15,自选节点
 host,launches.appsflyer.com,自选节点
@@ -3513,4 +3513,5 @@ host,graph.facebook.com,自选节点
 host,accounts.google.com,自选节点
 host,oauth2.googleapis.com,自选节点
 host,sessions.bugsnag.com,自选节点
+host,manifest-viki.viki.io,自选节点
 
