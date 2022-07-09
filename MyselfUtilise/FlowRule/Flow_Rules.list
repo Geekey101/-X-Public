@@ -1,5 +1,5 @@
 
-# 【大陆地区】
+# 【大陆地区—直连】
 
 USER-AGENT,hide*,大陆服务
 USER-AGENT,MicroMessenger*,大陆服务
@@ -541,7 +541,7 @@ HOST-SUFFIX,cn,大陆服务
 IP-CIDR,1.255.62.0/24,大陆服务
 
 
-#【海外服务】
+#【海外服务—优选节点】
 
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
@@ -3478,3 +3478,39 @@ IP-CIDR,96.23.20.70/32,海外服务
 IP-CIDR,96.23.20.74/32,海外服务
 IP-CIDR,96.23.20.78/32,海外服务
 IP-CIDR,96.4.63.99/32,海外服务
+
+
+
+#【海外服务—自选节点】
+
+host,api.viki.io,自选节点
+
+host,collector.viki.io,自选节点
+host,94.140.14.15,自选节点
+host,launches.appsflyer.com,自选节点
+host,insights.algolia.io,自选节点
+host,skadsdkless.appsflyer.com,自选节点
+host,app-measurement.com,自选节点
+host,sdk.iad-03.braze.com,自选节点
+
+host,www.googleadservices.com,自选节点
+host,cdn-global.configcat.com,自选节点
+host,1.viki.io,自选节点
+host,m.quantcount.com,自选节点
+host,pubads.g.doubleclick.net,自选节点
+host,6.vikiplatform.com,自选节点
+host,149.154.171.5,自选节点
+host,inappcheck.itunes.apple.com,自选节点
+host,ocsp2.apple.com,自选节点
+host,firebase-settings.crashlytics.com,自选节点
+host,amp-api-edge.apps.apple.com,自选节点
+host,94.140.15.16,自选节点
+host,ocsp.pki.goog,自选节点
+#host,raw.githubusercontent.com,自选节点
+host,ocsp.pki.goog,自选节点
+host,firebaselogging-pa.googleapis.com,自选节点
+host,graph.facebook.com,自选节点
+host,accounts.google.com,自选节点
+host,oauth2.googleapis.com,自选节点
+host,sessions.bugsnag.com,自选节点
+
