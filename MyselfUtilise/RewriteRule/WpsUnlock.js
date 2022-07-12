@@ -77,70 +77,7 @@ var obj = {
 
 }
 
-if($request.url. indexOf('user/v1/vip') != -1)
-{
-obj.vips = [
-    {
-      "memberid" : 12,
-      "expire_time" : 1846256142,
-      "name" : "稻壳会员",
-      "has_ad" : 0,
-      "enabled" : null
-    }
-];
-}
-if($request.url. indexOf('android/mb/buy') != -1)
-{
-obj.vips = [
-    {
-      "memberid" : 12,
-      "expire_time" : 1846256142,
-      "name" : "稻壳会员",
-      "has_ad" : 0,
-      "enabled" : null
-    }
-];
-}
-if($request.url. indexOf('download/v1/ios') != -1)
-{
-obj.vips = [
-    {
-      "memberid" : 12,
-      "expire_time" : 1846256142,
-      "name" : "稻壳会员",
-      "has_ad" : 0,
-      "enabled" : null
-    }
-];
-}
-if($request.url. indexOf('partner/invoke/usable') != -1)
-{
-obj.vips = [
-    {
-      "memberid" : 12,
-      "expire_time" : 1846256142,
-      "name" : "稻壳会员",
-      "has_ad" : 0,
-      "enabled" : null
-    }
-];
-}
-if($request.url. indexOf('api/v1/mobile/mb/detail') != -1)
-{
 
-}
-if($request.url. indexOf('rank/v1/mobile/mb/detail') != -1)
-{
-obj.vips = [
-    {
-      "memberid" : 12,
-      "expire_time" : 1846256142,
-      "name" : "稻壳会员",
-      "has_ad" : 0,
-      "enabled" : null
-    }
-];
-}
 
 
 
