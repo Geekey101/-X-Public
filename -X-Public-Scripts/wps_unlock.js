@@ -125,11 +125,11 @@ obj.vips = [
     }
 ];
 }
-if($request.url. indexOf('api/v1/mobile/mb?/detail') != -1)
+if($request.url. indexOf('api/v1/mobile/mb/detail') != -1)
 {
 
 }
-if($request.url. indexOf('rank/v1/mobile/mb?/detail') != -1)
+if($request.url. indexOf('rank/v1/mobile/mb/detail') != -1)
 {
 obj.vips = [
     {
