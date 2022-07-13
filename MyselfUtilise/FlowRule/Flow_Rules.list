@@ -3492,7 +3492,6 @@ host,insights.algolia.io,美国优选
 host,skadsdkless.appsflyer.com,美国优选
 host,app-measurement.com,美国优选
 host,sdk.iad-03.braze.com,美国优选
-
 host,www.googleadservices.com,美国优选
 host,cdn-global.configcat.com,美国优选
 host,1.viki.io,美国优选
@@ -3514,4 +3513,5 @@ host,accounts.google.com,美国优选
 host,oauth2.googleapis.com,美国优选
 host,sessions.bugsnag.com,美国优选
 host,manifest-viki.viki.io,美国优选
+host,www.viki.com,美国优选
 
