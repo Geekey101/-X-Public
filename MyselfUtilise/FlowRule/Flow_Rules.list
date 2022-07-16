@@ -3519,19 +3519,15 @@ HOST-SUFFIX,www.viki.com,美国优选
 ###kocowacon服务
 
 HOST-SUFFIX,launches.appsflyer.com,美国优选
-HOST-SUFFIX,crashlyticsreports-pa.googleapis.com.
-美国优选
-HOST-SUFFIX,middleware.record.kocowacon.com,
-美国优选
+HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,美国优选
+HOST-SUFFIX,middleware.record.kocowacon.com,美国优选
 HOST-SUFFIX,api.da.kcpglob.com,美国优选
 HOST-SUFFIX,prod. fims.kocowacon.com,美国优选
-HOST-SUFFIX,playback.brightcovecdn.com,美国优
-诜
+HOST-SUFFIX,playback.brightcovecdn.com,美国优选
 HOST-SUFFIX,metrics.brightcove.com,美国优选
 HOST-SUFFIX,prod-geo.kocowacon.com,美国优选
 HOST-SUFFIX,prod-Sgw.kocowacon.com,美国优选
-HOST-SUFFIX,smp-device-content.apple.com,#
-优诜
+HOST-SUFFIX,smp-device-content.apple.com,美国优诜
 HOST-SUFFIX,manifest.prod.boltdns.net,美国优选
 HOST-SUFFIX,prod.sgw kocowa.com,美国优选
 HOST-SUFFIX,api.ipify.org,美国优选
