@@ -3483,63 +3483,63 @@ IP-CIDR,96.4.63.99/32,海外服务
 
 #【海外服务—美国优选】
 
-###【viki—美国地区】
-host,api.viki.io,美国优选
-host,collector.viki.io,美国优选
-host,94.140.14.15,美国优选
-host,launches.appsflyer.com,美国优选
-host,insights.algolia.io,美国优选
-host,skadsdkless.appsflyer.com,美国优选
-host,app-measurement.com,美国优选
-host,sdk.iad-03.braze.com,美国优选
-host,www.googleadservices.com,美国优选
-host,cdn-global.configcat.com,美国优选
-host,1.viki.io,美国优选
-host,m.quantcount.com,美国优选
-host,pubads.g.doubleclick.net,美国优选
-host,6.vikiplatform.com,美国优选
-host,149.154.171.5,美国优选
-host,inappcheck.itunes.apple.com,美国优选
-host,ocsp2.apple.com,美国优选
-host,firebase-settings.crashlytics.com,美国优选
-host,amp-api-edge.apps.apple.com,美国优选
-host,94.140.15.16,美国优选
-host,ocsp.pki.goog,美国优选
-#host,raw.githubusercontent.com,美国优选
-host,ocsp.pki.goog,美国优选
-host,firebaselogging-pa.googleapis.com,美国优选
-host,graph.facebook.com,美国优选
-host,accounts.google.com,美国优选
-host,oauth2.googleapis.com,美国优选
-host,sessions.bugsnag.com,美国优选
-host,manifest-viki.viki.io,美国优选
-host,www.viki.com,美国优选
+###viki服务
 
+HOST-SUFFIX,api.viki.io,美国优选
+HOST-SUFFIX,collector.viki.io,美国优选
+HOST-SUFFIX,94.140.14.15,美国优选
+HOST-SUFFIX,launches.appsflyer.com,美国优选
+HOST-SUFFIX,insights.algolia.io,美国优选
+HOST-SUFFIX,skadsdkless.appsflyer.com,美国优选
+HOST-SUFFIX,app-measurement.com,美国优选
+HOST-SUFFIX,sdk.iad-03.braze.com,美国优选
+HOST-SUFFIX,www.googleadservices.com,美国优选
+HOST-SUFFIX,cdn-global.configcat.com,美国优选
+HOST-SUFFIX,1.viki.io,美国优选
+HOST-SUFFIX,m.quantcount.com,美国优选
+HOST-SUFFIX,pubads.g.doubleclick.net,美国优选
+HOST-SUFFIX,6.vikiplatform.com,美国优选
+HOST-SUFFIX,149.154.171.5,美国优选
+HOST-SUFFIX,inappcheck.itunes.apple.com,美国优选
+HOST-SUFFIX,ocsp2.apple.com,美国优选
+HOST-SUFFIX,firebase-settings.crashlytics.com,美国优选
+HOST-SUFFIX,amp-api-edge.apps.apple.com,美国优选
+HOST-SUFFIX,94.140.15.16,美国优选
+HOST-SUFFIX,ocsp.pki.goog,美国优选
+#HOST-SUFFIX,raw.githubusercontent.com,美国优选
+HOST-SUFFIX,ocsp.pki.goog,美国优选
+HOST-SUFFIX,firebaselogging-pa.googleapis.com,美国优选
+HOST-SUFFIX,graph.facebook.com,美国优选
+HOST-SUFFIX,accounts.google.com,美国优选
+HOST-SUFFIX,oauth2.googleapis.com,美国优选
+HOST-SUFFIX,sessions.bugsnag.com,美国优选
+HOST-SUFFIX,manifest-viki.viki.io,美国优选
+HOST-SUFFIX,www.viki.com,美国优选
+
+###kocowacon服务
+
+HOST-SUFFIX,launches.appsflyer.com,美国优选
+HOST-SUFFIX,crashlyticsreports-pa.googleapis.com.
+美国优选
+HOST-SUFFIX,middleware.record.kocowacon.com,
+美国优选
+HOST-SUFFIX,api.da.kcpglob.com,美国优选
+HOST-SUFFIX,prod. fims.kocowacon.com,美国优选
+HOST-SUFFIX,playback.brightcovecdn.com,美国优
+诜
+HOST-SUFFIX,metrics.brightcove.com,美国优选
+HOST-SUFFIX,prod-geo.kocowacon.com,美国优选
+HOST-SUFFIX,prod-Sgw.kocowacon.com,美国优选
+HOST-SUFFIX,smp-device-content.apple.com,#
+优诜
+HOST-SUFFIX,manifest.prod.boltdns.net,美国优选
+HOST-SUFFIX,prod.sgw kocowa.com,美国优选
+HOST-SUFFIX,api.ipify.org,美国优选
 
 #【海外服务—自选节点】
 
-host,launches.appsflyer.com,自选节点
 
-host,crashlyticsreports-pa.googleapis.com,自选节点
-host,middleware.record.kocowacon.com,自选节点
-host,api.da.kcpglob.com,自选节点
 
-host,prod.fms.kocowacon.com,自选节点
 
-host,playback.brightcovecdn.com,自选节点
-
-host,metrics.brightcove.com,自选节点
-
-host,prod-geo.kocowacon.com,自选节点
-
-host,prod-sgw.kocowacon.com,自选节点
-
-host,smp-device-content.apple.com,自选节点
-
-host,manifest.prod.boltdns.net,自选节点
-
-host,prod.sgw.kocowa.com,自选节点
-
-host,api.ipify.org,自选节点
 
 
