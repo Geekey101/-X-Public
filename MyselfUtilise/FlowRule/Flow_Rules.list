@@ -565,8 +565,7 @@ USER-AGENT,Instagram*,海外服务
 USER-AGENT,Resilio Sync*,海外服务
 USER-AGENT,WhatsApp*,海外服务
 
-# > Google Voice
-HOST,voice.telephony.goog,海外服务
+
 
 # > Line
 HOST-SUFFIX,lin.ee,海外服务
@@ -3483,7 +3482,7 @@ IP-CIDR,96.4.63.99/32,海外服务
 
 #【海外服务—美国优选】
 
-###viki服务
+# > viki
 
 HOST-SUFFIX,api.viki.io,美国优选
 HOST-SUFFIX,collector.viki.io,美国优选
@@ -3516,7 +3515,7 @@ HOST-SUFFIX,sessions.bugsnag.com,美国优选
 HOST-SUFFIX,manifest-viki.viki.io,美国优选
 HOST-SUFFIX,www.viki.com,美国优选
 
-###kocowacon服务
+# > kocowacon
 
 HOST-SUFFIX,launches.appsflyer.com,美国优选
 HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,美国优选
@@ -3531,6 +3530,9 @@ HOST-SUFFIX,smp-device-content.apple.com,美国优选
 HOST-SUFFIX,manifest.prod.boltdns.net,美国优选
 HOST-SUFFIX,prod.sgw kocowa.com,美国优选
 HOST-SUFFIX,api.ipify.org,美国优选
+
+# > Google Voice
+HOST,voice.telephony.goog,美国优选
 
 #【海外服务—自选节点】
 
