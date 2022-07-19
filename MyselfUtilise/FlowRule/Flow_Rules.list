@@ -3484,35 +3484,14 @@ IP-CIDR,96.4.63.99/32,海外服务
 
 # > viki
 
-HOST-SUFFIX,api.viki.io,美国优选
-HOST-SUFFIX,collector.viki.io,美国优选
-HOST-SUFFIX,94.140.14.15,美国优选
-HOST-SUFFIX,launches.appsflyer.com,美国优选
-HOST-SUFFIX,insights.algolia.io,美国优选
-HOST-SUFFIX,skadsdkless.appsflyer.com,美国优选
-HOST-SUFFIX,app-measurement.com,美国优选
-HOST-SUFFIX,sdk.iad-03.braze.com,美国优选
-HOST-SUFFIX,www.googleadservices.com,美国优选
-HOST-SUFFIX,cdn-global.configcat.com,美国优选
-HOST-SUFFIX,1.viki.io,美国优选
-HOST-SUFFIX,m.quantcount.com,美国优选
-HOST-SUFFIX,pubads.g.doubleclick.net,美国优选
-HOST-SUFFIX,6.vikiplatform.com,美国优选
-HOST-SUFFIX,149.154.171.5,美国优选
-HOST-SUFFIX,inappcheck.itunes.apple.com,美国优选
-HOST-SUFFIX,ocsp2.apple.com,美国优选
-HOST-SUFFIX,firebase-settings.crashlytics.com,美国优选
-HOST-SUFFIX,amp-api-edge.apps.apple.com,美国优选
-HOST-SUFFIX,94.140.15.16,美国优选
-HOST-SUFFIX,ocsp.pki.goog,美国优选
-#HOST-SUFFIX,raw.githubusercontent.com,美国优选
-HOST-SUFFIX,ocsp.pki.goog,美国优选
-HOST-SUFFIX,firebaselogging-pa.googleapis.com,美国优选
-HOST-SUFFIX,graph.facebook.com,美国优选
-HOST-SUFFIX,accounts.google.com,美国优选
-HOST-SUFFIX,oauth2.googleapis.com,美国优选
-HOST-SUFFIX,sessions.bugsnag.com,美国优选
-HOST-SUFFIX,manifest-viki.viki.io,美国优选
+HOST-HOST-SUFFIX,kalhlspd-a.akamaihd.net,美国优选
+HOST-SUFFIX,m-content-viki.s.llnwi.net,美国优选
+HOST-SUFFIX,twemoji.maxcdn.com,美国优选
+HOST-SUFFIX,viki.com,美国优选
+HOST-SUFFIX,viki.io,美国优选
+HOST-SUFFIX,viki.net,美国优选
+HOST-SUFFIX,vikidash.akamaized.net,美国优选
+HOST-SUFFIX,vikiplatform.com,美国优选
 HOST-SUFFIX,www.viki.com,美国优选
 
 # > kocowacon
@@ -3561,6 +3540,8 @@ HOST-KEYWORD,googleadservices,reject
 HOST-KEYWORD,googlesyndication,reject
 host,36.158.146.65/8080,reject
 host,hm.baidu.com,reject
+
+
 
 
 
