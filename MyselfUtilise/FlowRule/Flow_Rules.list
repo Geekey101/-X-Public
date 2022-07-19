@@ -3544,7 +3544,7 @@ HOST-SUFFIX,gs1024.com,海外服务
 
 
 #【广告专区】
-###🈲️🔞#午夜av#pornhub
+###🈲️🤔🔞
 ###
 HOST-KEYWORD,wyav,reject
 ###
@@ -3552,6 +3552,15 @@ HOST-SUFFIX,phncdn.com,reject
 HOST-SUFFIX,phprcdn.com,reject
 HOST-SUFFIX,pornhub.com,reject
 HOST-SUFFIX,pornhubpremium.com,reject
+###
+host,roi.soulapp.cn,reject
+host,gdfp.gifshow.com,reject
+host,api.gz1hua.com,reject
+HOST-KEYWORD,googleads,reject
+HOST-KEYWORD,googleadservices,reject
+HOST-KEYWORD,googlesyndication,reject
+host,36.158.146.65/8080,reject
+host,hm.baidu.com,reject
 
 
 
