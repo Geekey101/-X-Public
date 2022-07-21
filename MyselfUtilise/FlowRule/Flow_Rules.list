@@ -3484,7 +3484,7 @@ IP-CIDR,96.4.63.99/32,海外服务
 
 # > viki
 
-HOST-HOST-SUFFIX,kalhlspd-a.akamaihd.net,美国优选
+HOST-SUFFIX,kalhlspd-a.akamaihd.net,美国优选
 HOST-SUFFIX,m-content-viki.s.llnwi.net,美国优选
 HOST-SUFFIX,twemoji.maxcdn.com,美国优选
 HOST-SUFFIX,viki.com,美国优选
